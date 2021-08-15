@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cats can rotate their ears 150 degrees.
+=======
+Cats can rotate their ears 200 degrees.
+>>>>>>> 8fac03bff3959b4a2273767bc12cae7731489368
